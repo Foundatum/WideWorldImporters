@@ -162,7 +162,7 @@ SET NOCOUNT ON;
 */
 EXEC DataLoadSimulation.DailyProcessToCreateHistory
     @StartDate = '20200101',
-    @EndDate = '20200201',
+    @EndDate = '20201231',
     @AverageNumberOfCustomerOrdersPerDay = 30,
     @SaturdayPercentageOfNormalWorkDay = 25,
     @SundayPercentageOfNormalWorkDay = 0,
