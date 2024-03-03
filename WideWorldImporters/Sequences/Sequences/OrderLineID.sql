@@ -1,0 +1,5 @@
+﻿CREATE SEQUENCE [Sequences].[OrderLineID]
+    AS INT
+    START WITH 588997
+    INCREMENT BY 1;
+

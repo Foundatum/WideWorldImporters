@@ -1,0 +1,5 @@
+﻿CREATE SEQUENCE [Sequences].[OrderID]
+    AS INT
+    START WITH 203259
+    INCREMENT BY 1;
+

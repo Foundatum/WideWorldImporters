@@ -1,0 +1,5 @@
+﻿CREATE SEQUENCE [Sequences].[TransactionID]
+    AS INT
+    START WITH 927644
+    INCREMENT BY 1;
+
