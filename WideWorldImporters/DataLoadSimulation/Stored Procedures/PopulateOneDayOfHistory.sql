@@ -4,6 +4,7 @@
 @SundayPercentageOfNormalWorkDay int = 0,
 @IsSilentMode bit = 0,
 @AreDatesPrinted bit = 1
+WITH EXECUTE AS OWNER
 AS
 BEGIN
     SET NOCOUNT ON;
